@@ -1,0 +1,260 @@
+Round,Pick,Team,Player_Name,Position,Age,College,Years,Total_Salary,Signing_Bonus,2020_Cap_hit,Compensatory_Pick
+1,1,CIN,Joe Burrow  QB  23  Louisiana State     4       $36,190,137     $23,880,100   ,$6,580,025
+1,2,WAS,Chase Young     DE  21  Ohio State  4       $34,563,594     $22,697,160   ,$6,284,290
+1,3,DET,Jeff Okudah     CB  21  Ohio State  4       $33,528,544     $21,944,396   ,$6,096,099
+1,4,NYG,Andrew Thomas   T   21  Georgia     4       $32,345,588     $21,084,064   ,$5,881,016
+1,5,MIA,Tua Tagovailoa  QB  22  Alabama     4       $30,275,438     $19,578,500   ,$5,504,625
+1,6,LAC,Justin Herbert,QB  22  Oregon  4       $26,578,755     $16,890,004   ,$4,832,501
+1,7,CAR,    Derrick Brown,DT  22  Auburn  4       $23,621,405     $14,739,203   ,$4,294,801
+1,8,ARI,    Isaiah Simmons  LB  21  Clemson     4       $20,664,055     $12,588,404   ,$3,757,101
+1,9,JAC,    C.J. Henderson  CB  21  Florida     4       $20,516,020     $12,480,744   ,$3,730,186
+1,10,CLE,Jedrick Wills   T   20  Alabama     4       $19,702,914     $11,889,390   ,$3,582,348
+1,11,NYJ,    Mekhi Becton    T   21  Louisville  4       $18,446,048     $10,975,308   ,$3,353,827
+1,12,LVR,    Henry Ruggs     WR  21  Alabama     4       $16,671,626     $9,684,820,$3,031,205
+1,13,TB,Tristan Wirfs   T   21  Iowa    4       $16,228,026     $9,362,200,$2,950,550
+1,14,SF,Javon Kinlaw    DT  22  South Carolina  4       $15,488,692     $8,824,504,$2,816,126
+1,15,DEN,    Jerry Jeudy     WR  20  Alabama     4       $15,192,974     $8,609,436,$2,762,359
+1,16,ATL,    A.J. Terrell    CB  21  Clemson     4       $14,305,748     $7,964,180,$2,601,045
+1,17,DAL,    CeeDee Lamb     WR  21  Oklahoma    4       $14,010,012     $7,749,100,$2,547,275
+1,18,MIA,   Austin Jackson  T   20  Southern California     4       $13,640,342     $7,480,252,$2,480,063
+1,19,LVR,   Damon Arnette   CB  23  Ohio State  4       $13,418,540     $7,318,940,$2,439,735
+1,20,JAC,   K’Lavon Chaisson    OLB     20  Louisiana State     4       $13,344,613     $7,265,172,$2,426,293
+1,21,PHI,    Jalen Reagor    WR  21  Texas Christian     4       $13,270,676     $7,211,400,$2,412,850
+1,22,MIN,   Justin Jefferson    WR  21  Louisiana State     4       $13,122,805     $7,103,856,$2,385,964
+1,23,LAC,    Kenneth Murray  LB  21  Oklahoma    4       $12,974,941     $6,996,320,$2,359,080
+1,24,NO,Cesar Ruiz  C   20  Michigan    4       $12,679,205     $6,781,240,$2,305,310
+1,25,SF,   Brandon Aiyuk   WR  22  Arizona State   4       $12,531,342     $6,673,704,$2,278,426
+1,26,GB,   Jordan Love     QB  21  Utah St     4       $12,383,451     $6,566,148,$2,251,537
+1,27,SEA,    Jordyn Brooks   LB  22  Texas Tech  4       $12,235,607     $6,458,624,$2,224,656
+1,28,BAL,    Patrick Queen   ILB     20  Louisiana State     4       $12,161,671     $6,404,852,$2,211,213
+1,29,TEN,    Isaiah Wilson   T   21  Georgia     4       $11,568,389     $5,973,376,$2,103,344
+1,30,MIA,    Noah Igbinoghene    CB  20  Auburn  4       $11,254,210     $5,744,880,$2,046,220
+1,31,MIN,    Jeff Gladney    CB  23  Texas Christian     4       $10,991,030     $5,553,476,$1,998,369
+1,32,KC,Clyde Edwards-Helaire   RB  21  Louisiana State     4       $10,821,570     $5,430,232,$1,967,558
+2,33,CIN     Tee Higgins     WR  21  Clemson     4       $8,686,785  $3,877,664  $1,579,416
+2,34,IND    Michael Pittman Jr.     WR  22  Southern California     4       $8,612,850  $3,823,892  $1,565,973
+2,35,DET     D'Andre Swift   RB  21  Georgia     4       $8,538,914  $3,770,120  $1,552,530
+2,36,NYG     Xavier McKinney     S   21  Alabama     4       $8,391,049  $3,662,580  $1,525,645
+2,37,NE     Kyle Dugger     S   24  Lenoir-Rhyne    4       $8,331,902  $3,619,564  $1,514,891
+2,38,CAR     Yetur Gross-Matos   DE  22  Penn State  4       $8,198,806  $3,522,768  $1,490,692
+2,39,MIA     Robert Hunt     G   23  Louisiana-Lafayette     4       $8,065,741  $3,425,992  $1,466,498
+2,40,HOU    Ross Blacklock  DT  21  Texas Christian     4       $7,947,441  $3,339,956  $1,444,989
+2,41,IND    Jonathan Taylor     RB  21  Wisconsin   4       $7,829,150  $3,253,928  $1,423,482
+2,42,JAC     Laviska Shenault    WR  21  Colorado    4       $7,696,069  $3,157,140  $1,399,285
+2,43,CHI    Cole Kmet   TE  21  Notre Dame  4       $7,577,778  $3,071,112  $1,377,778
+2,44,CLE    Grant Delpit    S   21  Louisiana State     4       $7,465,062  $2,989,136  $1,357,284
+2,45,TB  Antoine Winfield Jr.    S   21  Minnesota   4       $7,307,182  $2,874,316  $1,328,579
+2,46,DEN     K.J. Hamler     WR  20  Penn State  4       $7,137,130  $2,750,640  $1,297,660
+2,47,ATL     Marlon Davidson     DT  21  Auburn  4       $6,912,370  $2,587,180  $1,256,795
+2,48,SEA    Darrell Taylor  DE  23  Tennessee   4       $6,764,507  $2,479,640  $1,229,910
+2,49,PIT     Chase Claypool  WR  21  Notre Dame  4       $6,616,625  $2,372,092  $1,203,023
+2,50,CHI     Jaylon Johnson  CB  21  Utah    4       $6,468,770  $2,264,560  $1,176,140
+2,51,DAL     Trevon Diggs    CB  22  Alabama     4       $6,320,907  $2,157,024  $1,149,256
+2,52,LAR     Cam Akers   RB  20  Florida State   4       $6,173,035  $2,049,480  $1,122,370
+2,53,PHI     Jalen Hurts     QB  21  Oklahoma    4       $6,025,171  $1,941,944  $1,095,486
+2,54,BUF     A.J. Epenesa    DE  21  Iowa    4       $5,877,299  $1,834,399  $1,068,600
+2,55,BAL     JK Dobbins  RB  21  Ohio State  4       $5,729,436  $1,726,862  $1,041,715
+2,56,MIA     Raekwon Davis   DT  22  Alabama     4       $5,655,499  $1,673,092  $1,028,273
+2,57,LAR    Van Jefferson   WR  23  Florida     4       $5,611,134  $1,640,824  $1,020,206
+2,58,MIN     Ezra Cleveland  T   21  Boise State     4       $5,537,209  $1,587,060  $1,006,765
+2,59,NYJ    Denzel Mims     WR  22  Baylor  4       $5,433,700  $1,511,784  $987,946
+2,60,NE     Josh Uche   OLB     21  Michigan    4       $5,389,335  $1,479,516  $979,879
+2,61,TEN     Kristian Fulton     CB  21  Louisiana State     4       $5,330,192  $1,436,504  $969,126
+2,62,GB  A.J. Dillon     RB  21  Boston College  4       $5,285,830  $1,404,240  $961,060
+2,63,KC  Willie Gay Jr.  ILB     22  Mississippi State   4       $5,271,045  $1,393,488  $958,372
+2,64,CAR     Jeremy Chinn    S   22  Southern Illinois   4       $5,241,473  $1,371,980  $952,995
+
+Round 3
+3,65,CIN     Logan Wilson    LB  23  Wyoming     4       $4,945,590  $1,156,796  $899,199
+3,66,WAS     Antonio Gibson  RB  21  Memphis     4       $4,932,636  $1,147,372  $896,843
+3,67,DET     Julian Okwara   LB  22  Notre Dame  4       $4,926,810  $1,143,136  $895,784
+3,68,NYJ    Ashtyn Davis    S   23  California  4       $4,917,384  $1,136,280  $894,070
+3,69,SEA    Damien Lewis    G   23  Louisiana State     4       $4,902,141  $1,125,192  $891,298
+3,70,MIA     Brandon Jones   S   22  Texas   4       $4,873,092  $1,104,069  $886,017
+3,71,BAL  Justin Madubuike    DT  22  Texas A&M   4       $4,853,308  $1,089,680  $882,420
+3,72,ARI     Josh Jones  T   22  Houston     4       $4,839,343  $1,079,524  $879,881
+3,73,JAC     DaVon Hamilton  DT  23  Ohio State  4       $4,820,516  $1,065,832  $876,458
+3,74,NO     Zack Baun   OLB     23  Wisconsin   4       $4,811,188  $1,059,048  $874,762
+3,75,DET    Jonah Jackson   G   23  Ohio State  4       $4,796,768  $1,048,560  $872,140
+3,76,TB  Ke'Shawn Vaughn     RB  22  Vanderbilt  4       $4,755,997  $1,018,908  $864,727
+3,77,DEN     Michael Ojemudia    CB  22  Iowa    4       $4,751,392  $1,015,560  $863,890
+3,78,ATL     Matt Hennessy   C   22  Temple  4       $4,744,562  $1,010,592  $862,648
+3,79,NYJ     Jabari Zuniga   DE  22  Florida     4       $4,726,379  $997,368    $859,342
+3,80,LVR     Lynn Bowden     RB  22  Kentucky    4       $4,709,417  $985,032    $856,258
+3,81,LVR    Bryan Edwards   WR  21  South Carolina  4       $4,692,455  $972,696    $853,174
+3,82,DAL     Neville Gallimore   DT  23  Oklahoma    4       $4,680,449  $963,964    $850,991
+3,83,DEN    Lloyd Cushenberry   C   22  Louisiana State     4       $4,655,990  $946,176    $846,544
+3,84,LAR     Terrell Lewis   OLB     21  Alabama     4       $4,638,593  $933,524    $843,381
+3,85,IND     Julian Blackmon     S   21  Utah    4       $4,628,848  $926,436    $841,609
+3,86,BUF     Zack Moss   RB  22  Utah    4       $4,612,316  $914,417    $838,604
+3,87,NE  Anfernee Jennings   OLB     22  Alabama     4       $4,596,871  $903,180    $835,794
+3,88,CLE     Jordan Elliott  DT  22  Missouri    4       $4,588,430  $897,040    $834,260
+3,89,MIN     Cameron Dantzler    CB  21  Mississippi State   4       $4,585,624  $895,000    $833,750
+3,90,HOU     Jonathan Greenard   DE  22  Florida     4       $4,584,222  $893,980    $833,495
+3,91,NE     Devin Asiasi    TE  22  California-Los Angeles  4       $4,582,820  $892,960    $833,240
+3,92,BAL     Devin Duvernay  WR  22  Texas   4       $4,575,810  $887,864    $831,966
+3,93,TEN     Darrynton Evans     RB  21      4       $4,561,788  $877,664    $829,416
+3,94,GB  Josiah Deguara  TE  23  Cincinnati  4       $4,547,766  $867,468    $826,867
+3,95,DEN     McTelvin Agim   DT  22  Arkansas    4       $4,533,744  $857,272    $824,318
+3,96,KC  Lucas Niang     T   21  Texas Christian     4       $4,519,722  $847,072    $821,768
+97 (C)  CLE    Jacob Phillips  ILB     21  Louisiana State     4       $4,344,314  $832,296    $818,074
+98 (C)  BAL     Malik Harrison  LB  22  Ohio State  4       $4,499,405  $832,296    $818,074
+99 (C)  NYG     Matt Peart  T   22  Connecticut     4       $4,329,564  $832,296    $818,074
+100 (C)     LVR     Tanner Muse     OLB     23  Clemson     4       $4,499,405  $832,296    $818,074
+101 (C)     NE     Dalton Keene    TE  21  Virginia Tech   4       $4,499,405  $832,296    $818,074
+102 (C)     PIT     Alex Highsmith  OLB     22  Charlotte   4       $4,499,405  $832,296    $818,074
+103 (C)     PHI     Davion Taylor   OLB     21  Colorado    4       $4,499,405  $832,296    $818,074
+104 (C)     LAR     Terrell Burgess     S   21  Utah    4       $4,499,405  $832,296    $818,074
+105 (C)     NO     Adam Trautman   TE  23  Dayton  4       $4,499,405  $832,296    $818,074
+106 (C)     BAL     Tyre Phillips   T   23  Mississippi State   4       $4,499,401  $832,292    $818,073
+
+Round 4
+4,107,CIN     Akeem Davis-Gaither     LB  22  Appalachian State   4       $4,112,512  $817,512    $814,378
+4,108,WAS     Saahdiq Charles     T   20  Louisiana State     4       $4,094,372  $799,372    $809,843
+4,109,LVR    John Simpson    G   22  Clemson     4       $4,091,780  $796,780    $809,195
+4,110,NYG     Darnay Holmes   CB  21  California-Los Angeles  4       $4,086,888  $791,888    $807,972
+4,111,MIA     Solomon Kindley     G   22  Georgia     4       $4,079,570  $784,570    $806,142
+4,112,LAC     Josh Kelley     RB  22  California-Los Angeles  4       $4,075,340  $780,340    $805,085
+4,113,CAR     Troy Pride Jr.  CB  22  Notre Dame  4       $4,072,476  $777,476    $804,369
+4,114,ARI     Leki Fotu   DT  21  Utah    4       $4,068,472  $773,472    $803,368
+4,115,CLE     Harrison Bryant     TE  22  Florida Atlantic    4       $4,064,028  $769,028    $802,257
+4,116,JAC     Ben Bartch  T   21  Saint John  4       $4,058,616  $763,616    $800,904
+4,117,MIN  D.J. Wonnum     DE  22  South Carolina  4       $4,045,780  $750,780    $797,695
+4,118,DEN     Albert Okwuegbunam  TE  22  Missouri    4       $4,044,044  $749,044    $797,261
+4,119,ATL     Mykal Walker    OLB     22  Fresno State    4       $4,041,080  $746,080    $796,520
+4,120,NYJ     La'Mical Perine     RB  22  Florida     4       $4,040,344  $745,344    $796,336
+4,121,DET    Logan Stenberg  G   23  Kentucky    4       $4,036,640  $741,640    $795,410
+4,122,IND     Jacob Eason     QB  22  Washington  4       $4,027,264  $732,264    $793,066
+4,123,DAL     Reggie Robinson     CB  23  Tulsa   4       $4,024,272  $729,272    $792,318
+4,124,PIT     Anthony McFarland   RB  21  Maryland    4       $4,017,428  $722,428    $790,607
+4,125,NYJ  James Morgan    QB  23  Florida International   4       $4,010,264  $715,264    $788,816
+4,126,HOU    Charlie Heck    G   23  North Carolina  4       $4,005,704  $710,704    $787,676
+4,127,PHI     K'Von Wallace   S   22  Clemson     4       $4,001,112  $706,112    $786,528
+4,128,BUF     Gabriel Davis   WR  21  Central Florida     4       $3,994,380  $699,380    $784,845
+4,129,NYJ  Cameron Clark   T   22  Charlotte   4       $3,985,992  $690,992    $782,748
+4,130,MIN     James Lynch     DT  21  Baylor  4       $3,985,996  $690,996    $782,749
+4,131,ARI    Rashard Lawrence    DT  21  Louisiana State     4       $3,979,084  $684,084    $781,021
+4,132,MIN     Troy Dye    LB  23  Oregon  4       $3,973,580  $678,580    $779,645
+4,133,SEA     Colby Parkinson     TE  21  Stanford    4       $3,965,440  $670,440    $777,610
+4,134,ATL    Jaylinn Hawkins     S   22  California  4       $3,961,916  $666,916    $776,729
+4,135,PIT     Kevin Dotson    G   23  Louisiana-Lafayette     4       $3,953,816  $658,816    $774,704
+4,136,LAR     Brycen Hopkins  TE  23  Purdue  4       $3,948,132  $653,132    $773,283
+4,137,JAC     Josiah Scott    CB  21  Michigan State  4       $3,938,940  $643,940    $770,985
+4,138,KC  L'Jarius Sneed  CB  23  Louisiana Tech  4       $3,929,320  $634,320    $768,580
+139 (C)     LVR  Amik Robertson  CB  21  Louisiana Tech  4       $3,789,400  $494,400    $733,600
+140 (C)     JAC    Shaq Quarterman     LB  22  Miami (FL)  4       $3,789,400  $494,400    $733,600
+141 (C)     HOU    John Reid   CB  23  Penn State  4       $3,789,400  $494,400    $733,600
+142 (C)     WAS     Antonio Gandy-Golden    WR  22  Liberty     4       $3,789,400  $494,400    $733,600
+143 (C)     BAL     Ben Bredeson    G   21  Michigan    4       $3,789,401  $494,401    $733,600
+144 (C)     SEA     DeeJay Dallas   RB  21  Miami (FL)  4       $3,789,400  $494,400    $733,600
+145 (C)     PHI     Jack Driscoll   G   23  Auburn  4       $3,789,400  $494,400    $733,600
+146 (C)     DAL    Tyler Biadasz   C   22  Wisconsin   4       $3,789,400  $494,400    $733,600
+5,147,CIN     Khalid Kareem   DE  21  Notre Dame  4       $3,649,476  $354,476    $698,619
+5,148,SEA     Alton Robinson  DE  21  Syracuse    4       $3,646,348  $351,348    $697,837
+5,149,IND    Danny Pinter    G   23  Ball State  4       $3,643,700  $348,700    $697,175
+5,150,NYG     Shane Lemieux   G   22  Oregon  4       $3,642,140  $347,140    $696,785
+5,151,LAC     Joe Reed    WR  22  Virginia    4       $3,635,308  $340,308    $695,077
+5,152,CAR     Kenny Robinson  S   21  West Virginia   4       $3,627,204  $332,204    $693,051
+5,153,SF from MIA     Colton McKivitz     T   23  West Virginia   4       $3,622,316  $327,316    $691,829
+5,154,MIA     Jason Strowbridge   DE  23  North Carolina  4       $3,621,493  $326,493    $691,623
+5,155,CHI     Trevis Gipson   LB  22  Tulsa   4       $3,620,672  $325,672    $691,418
+5,156,WAS  Keith Ismael    C   21  San Diego State     4       $3,614,836  $319,836    $689,959
+5,157,JAC     Daniel Thomas   S   21  Auburn  4       $3,612,116  $317,116    $689,279
+5,158,NYJ     Bryce Hall  CB  22  Virginia    4       $3,610,804  $315,804    $688,951
+5,159,NE     Justin Rohrwasser   K   23  Marshall    4       $3,610,394  $315,394    $688,848
+5,160,CLE    Nick Harris     C   21  Washington  4       $3,609,648  $314,648    $688,662
+5,161,TB  Tyler Johnson   WR  21  Minnesota   4       $3,609,420  $314,420    $688,605
+5,162,WAS     Khaleke Hudson  LB  22  Michigan    4       $3,607,600  $312,600    $688,150
+5,163,CHI     Kindle Vildor   CB  22  Georgia Southern    4       $3,605,672  $310,672    $687,668
+5,164,MIA     Curtis Weaver   DE  21  Boise State     4       $3,602,992  $307,992    $686,998
+5,165,JAC    Collin Johnson  WR  22  Texas   4       $3,602,152  $307,152    $686,788
+5,166,DET    Quintez Cephus  WR  22  Wisconsin   4       $3,599,288  $304,288    $686,072
+5,167,BUF     Jake Fromm  QB  21  Georgia     4       $3,597,960  $302,960    $685,740
+5,168,PHI     John Hightower  WR  23  Boise State     4       $3,595,052  $300,052    $685,013
+5,169,MIN     Harrison Hand   CB  21  Temple  4       $3,593,780  $298,780    $684,695
+5,170,BAL    Broderick Washington    DT      Texas Tech  4       $3,588,649  $293,649    $683,412
+5,171,HOU     Isaiah Coulter  WR  21  Rhode Island    4       $3,587,952  $292,952    $683,238
+5,172,DET     Jason Huntley   RB  22  New Mexico State    4       $3,585,308  $290,308    $682,577
+5,173,CHI     Darnell Mooney  WR  22  Tulane  4       $3,577,052  $282,052    $680,513
+5,174,TEN     Larrell Murchison   DT  23  North Carolina State    4       $3,572,744  $277,744    $679,436
+5,175,GB  Kamal Martin    LB  21  Minnesota   4       $3,566,064  $271,064    $677,766
+5,176,MIN     K.J. Osborn     WR  22  Miami (FL)  4       $3,562,772  $267,772    $676,943
+5,177,KC  Michael Danna   DE  22  Michigan    4       $3,558,660  $263,660    $675,915
+5,178 (C)     DEN     Justin Strnad   LB  23  Wake Forest     4       $3,532,772  $237,772    $669,443
+5,179 (C)     DAL     Bradlee Anae    DE  22  Utah    4       $3,532,772  $237,772    $669,443
+6,180,CIN     Hakeem Adeniji  G   22  Kansas  4       $3,506,884  $211,884    $662,971
+6,181,DEN    Netane Muti     G   21  Fresno State    4       $3,500,792  $205,792    $661,448
+6,182,NE     Mike Onwenu     G   22  Michigan    4       $3,497,476  $202,476    $660,619
+6,183,NYG     Cameron Brown   LB  22  Penn State  4       $3,493,364  $198,364    $659,591
+6,184,CAR     Bravvion Roy    DT  22  Baylor  4       $3,488,976  $193,976    $658,494
+6,185,MIA     Blake Ferguson  LS  23  Louisiana State     4       $3,485,448  $190,448    $657,612
+6,186,LAC     Alohi Gilman    S   22  Notre Dame  4       $3,483,204  $188,204    $657,051
+6,187,CLE    Donovan Peoples-Jones   WR  21  Michigan    4       $3,481,608  $186,608    $656,652
+6,188,BUF    Tyler Bass  K   23  Georgia Southern    4       $3,479,218  $184,218    $656,054
+6,189,JAC     Jake Luton  QB  24  Oregon State    4       $3,476,748  $181,748    $655,437
+6,190,SF     Charlie Woerner     TE  22  Georgia     4       $3,476,028  $181,028    $655,257
+6,191,NYJ     Braden Mann     P   22  Texas A&M   4       $3,472,100  $177,100    $654,275
+6,192,GB     Jon Runyan  G   22  Michigan    4       $3,469,676  $174,676    $653,669
+6,193,IND     Rob Windsor     DT  23  Penn State  4       $3,469,020  $174,020    $653,505
+6,194,TB  Khalil Davis    DT  23  Nebraska    4       $3,468,212  $173,212    $653,303
+6,195,NE     Justin Herron   T   24  Wake Forest     4       $3,467,461  $172,461    $653,115
+6,196,PHI    Shaun Bradley   LB  23  Temple  4       $3,466,420  $171,420    $652,855
+6,197,DET     John Penisini   DT  22  Utah    4       $3,466,176  $171,176    $652,794
+6,198,PIT     Antoine Brooks Jr.  S   22  Maryland    4       $3,465,836  $170,836    $652,709
+6,199,LAR     Jordan Fuller   S   22  Ohio State  4       $3,465,712  $170,712    $652,678
+6,200,PHI     Quez Watkins    WR  21  Southern Mississippi    4       $3,464,664  $169,664    $652,416
+6,201,BAL     James Proche    WR  23  Southern Methodist  4       $3,463,099  $168,099    $652,024
+6,202,ARI     Evan Weaver     LB  21  California  4       $3,462,232  $167,232    $651,808
+6,203,MIN     Blake Brandel   T   23  Oregon State    4       $3,459,972  $164,972    $651,243
+6,204,NE     Cassh Maluia    LB  21  Wyoming     4       $3,457,664  $162,664    $650,666
+6,205,MIN     Josh Metellus   S   22  Michigan    4       $3,455,256  $160,256    $650,064
+6,206,JAC    Tyler Davis     TE  23  Georgia Tech    4       $3,454,544  $159,544    $649,886
+6,207,BUF  Isaiah Hodgins  WR  21  Oregon State    4       $3,453,888  $158,888    $649,722
+6,208,GB     Jake Hanson     C   22  Oregon  4       $3,449,696  $154,696    $648,674
+6,209,GB  Simon Stepaniak     G   22  Indiana     4       $3,447,164  $152,164    $648,041
+6,210,PHI     Prince Tega Wanogho     T   22  Auburn  4       $3,444,676  $149,676    $647,419
+6,211,IND     Isaiah Rodgers  S   22  Massachusetts   4       $3,440,124  $145,124    $646,281
+6,212,IND     Dezmon Patmon   WR  21  Washington State    4       $3,424,412  $129,412    $642,353,Y
+6,213,IND     Jordan Glasgow  LB  23  Michigan    4       $3,424,412  $129,412    $642,353,Y
+6,214,SEA     Freddie Swain   WR  21  Florida     4       $3,424,412  $129,412    $642,353,Y
+7,215,CIN     Markus Bailey   LB  23  Purdue  4       $3,408,696  $113,696    $638,424,N
+7,216,WAS     Kamren Curl     S   21  Arkansas    4       $3,408,328  $113,328    $638,332,N
+7,217,SF     Jauan Jennings  WR  22  Tennessee   4       $3,406,024  $111,024    $637,756,N
+7,218,NYG     Carter Coughlin     OLB     22  Minnesota   4       $3,405,144  $110,144    $637,536,N
+7,219,BAL     Geno Stone  S   21  Iowa    4       $3,402,155  $107,155    $636,788,N
+7,220,LAC     K.J. Hill   WR  22  Ohio State  4       $3,399,828  $104,828    $636,207,N
+7,221,CAR     Stantley Thomas-Oliver  CB  21  Florida International   4       $3,398,176  $103,176    $635,794,N
+7,222,ARI     Eno Benjamin    RB  21  Arizona State   4       $3,397,712  $102,712    $635,678,N
+7,223,JAC     Chris Claybrooks    CB  21  Memphis     4       $3,397,384  $102,384    $635,596,N
+7,224,TEN    Cole McDonald   QB  21  Hawaii  4       $3,396,684  $101,684    $635,421,N
+7,225,MIN     Kenny Willekes  DE  22  Michigan State  4       $3,394,676  $99,676     $634,919,N
+7,226,CHI    Arlington Hambright     T   24  Colorado    4       $3,394,108  $99,108     $634,777,N
+7,227,CHI     Lachavious Simmons  T   23  Tennessee State     4       $3,394,096  $99,096     $634,774,N
+7,228,ATL     Sterling Hofrichter     P   23  Syracuse    4       $3,392,740  $97,740     $634,435,N
+7,229,WAS    James Smith-Williams    DE  22  North Carolina State    4       $3,392,700  $97,700     $634,425,N
+7,230,NE     Dustin Woodard  C   23  Memphis     4       $3,392,333  $97,333     $634,333,N
+7,231,DAL     Ben DiNucci     QB  23  James Madison   4       $3,390,148  $95,148     $633,787,N
+7,232,PIT     Carlos Davis    DT  23  Nebraska    4       $3,388,504  $93,504     $633,376,N
+7,233,PHI    Casey Toohill   DE  23  Stanford    4       $3,387,032  $92,032     $633,008,N
+7,234,LAR     Clay Johnston   LB  23  Baylor  4       $3,383,180  $88,180     $632,045,N
+7,235,DET  Jashon Cornell  DT  23  Ohio State  -       $3,379,530  $84,530     $631,132,N
+7,236,GB     Vernon Scott    S       Texas Christian     4       $3,378,688  $83,688     $630,922,N
+7,237,KC     Bopete Keyes    CB  22  Tulane  4       $3,377,820  $82,820     $630,705,N
+7,238,NYG     T.J. Brunson    LB  22  South Carolina  4       $3,376,952  $81,952     $630,488,N
+7,239,BUF    Dane Jackson    CB  23  Pittsburgh  4       $3,376,306  $81,306     $630,326,N
+7,240,NO     Tommy Stevens   QB  23  Mississippi State   4       $3,375,596  $80,596     $630,149,N
+7,241,TB  Chapelle Russell    LB  23  Temple  4       $3,374,936  $79,936     $629,984,N
+7,242,GB     Jonathan Garvin     OLB     20  Miami (FL)  4       $3,374,280  $79,280     $629,820,N
+7,243,TEN     Chris Jackson   CB  22  Marshall    4       $3,373,280  $78,280     $629,570,N
+7,244,MIN  Nate Stanley    QB  22  Iowa    4       $3,372,548  $77,548     $629,387,N
+7,245,TB,Raymond Calais  RB  22  Louisiana-Lafayette     4       $3,371,504  $76,504     $629,126,N
+7,246,MIA,Malcolm Perry   RB  13  Navy    4       $3,370,488  $75,488     $628,872,N
+7,247,NYG     Chris Williamson    CB  22  Minnesota   4       $3,370,492  $75,492     $628,873,Y
+7,248,LAR    Sam Sloman  K   22  Miami (OH)  4       $3,370,492  $75,492     $628,873,Y
+7,249,MIN     Brian Cole II   S   23  Mississippi State   4       $3,370,492  $75,492     $628,873,Y
+7,250,LAR    Tremayne Anchrum    G   21  Clemson     4       $3,370,492  $75,492     $628,873,Y
+7,251,SEA    Stephen Sullivan    WR  23  Louisiana State     4       $3,370,492  $75,492     $628,873,Y
+7,252,DEN     Tyrie Cleveland     WR  22  Florida     4       $3,370,492  $75,492     $628,873,Y
+7,253,MIN     Kyle Hinton     G   22  Washburn    4       $3,370,492  $75,492     $628,873,Y
+7,254,DEN     Derrek Tuszka   DE  22  North Dakota State  4       $3,370,492  $75,492     $628,873,Y
+7,255,NYG     Tae Crowder     LB  23  Georgia     4       $3,370,490  $75,490     $628,872,Y
